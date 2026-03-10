@@ -1,0 +1,6 @@
+README.md
+setup.py
+src/churn_prediction_fintech.egg-info/PKG-INFO
+src/churn_prediction_fintech.egg-info/SOURCES.txt
+src/churn_prediction_fintech.egg-info/dependency_links.txt
+src/churn_prediction_fintech.egg-info/top_level.txt
